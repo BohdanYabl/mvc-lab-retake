@@ -1,5 +1,5 @@
 const http = require('http');
-const PORT = 3007;
+const PORT = 3000;
 const fs = require('fs');
 const routes = require('./routes/index');
 
